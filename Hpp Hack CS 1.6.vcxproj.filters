@@ -1,0 +1,221 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Hpp Hack CS 1.6\Chams.cpp">
+      <Filter>Client\Functions\Visuals</Filter>
+    </ClCompile>
+    <ClCompile Include="Hpp Hack CS 1.6\Crosshair.cpp">
+      <Filter>Client\Functions\Visuals</Filter>
+    </ClCompile>
+    <ClCompile Include="Hpp Hack CS 1.6\ESP.cpp">
+      <Filter>Client\Functions\Visuals</Filter>
+    </ClCompile>
+    <ClCompile Include="Hpp Hack CS 1.6\NoFlash.cpp">
+      <Filter>Client\Functions\Visuals</Filter>
+    </ClCompile>
+    <ClCompile Include="Hpp Hack CS 1.6\Other.cpp">
+      <Filter>Client\Functions\Visuals</Filter>
+    </ClCompile>
+    <ClCompile Include="Hpp Hack CS 1.6\AutoPistol.cpp">
+      <Filter>Client\Functions\AimBot</Filter>
+    </ClCompile>
+    <ClCompile Include="Hpp Hack CS 1.6\Weapons.cpp">
+      <Filter>Client\Functions\AimBot</Filter>
+    </ClCompile>
+    <ClCompile Include="Hpp Hack CS 1.6\Recoil.cpp">
+      <Filter>Client\Functions\AimBot</Filter>
+    </ClCompile>
+    <ClCompile Include="Hpp Hack CS 1.6\BunnyHop.cpp">
+      <Filter>Client\Functions\Misc</Filter>
+    </ClCompile>
+    <ClCompile Include="Hpp Hack CS 1.6\GroundStrafe.cpp">
+      <Filter>Client\Functions\Misc</Filter>
+    </ClCompile>
+    <ClCompile Include="Hpp Hack CS 1.6\FastZoom.cpp">
+      <Filter>Client\Functions\AimBot</Filter>
+    </ClCompile>
+    <ClCompile Include="Hpp Hack CS 1.6\Main.cpp">
+      <Filter>Main</Filter>
+    </ClCompile>
+    <ClCompile Include="Hpp Hack CS 1.6\Info.cpp">
+      <Filter>Client\Information</Filter>
+    </ClCompile>
+    <ClCompile Include="Hpp Hack CS 1.6\Speed.cpp">
+      <Filter>Client\Functions\Misc</Filter>
+    </ClCompile>
+    <ClCompile Include="Hpp Hack CS 1.6\EngineMsg.cpp">
+      <Filter>Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="Hpp Hack CS 1.6\Offsets.cpp">
+      <Filter>Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="Hpp Hack CS 1.6\ParseMsg.cpp">
+      <Filter>Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="Hpp Hack CS 1.6\UserMsg.cpp">
+      <Filter>Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="Hpp Hack CS 1.6\Utils.cpp">
+      <Filter>Utils</Filter>
+    </ClCompile>
+    <ClCompile Include="Hpp Hack CS 1.6\Spread.cpp">
+      <Filter>Client\Information</Filter>
+    </ClCompile>
+    <ClCompile Include="Hpp Hack CS 1.6\WeaponList.cpp">
+      <Filter>Client\Information</Filter>
+    </ClCompile>
+    <ClCompile Include="Hpp Hack CS 1.6\ScreenInfo.cpp">
+      <Filter>Client\Functions\Visuals</Filter>
+    </ClCompile>
+    <ClCompile Include="Hpp Hack CS 1.6\Client.cpp">
+      <Filter>Client</Filter>
+    </ClCompile>
+    <ClCompile Include="Hpp Hack CS 1.6\TriggerBot.cpp">
+      <Filter>Client\Functions\TriggerBot</Filter>
+    </ClCompile>
+    <ClCompile Include="Hpp Hack CS 1.6\Files.cpp">
+      <Filter>Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Hpp Hack CS 1.6\Engine.cpp">
+      <Filter>Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="Hpp Hack CS 1.6\OpenGL.cpp">
+      <Filter>OpenGL</Filter>
+    </ClCompile>
+    <ClCompile Include="Hpp Hack CS 1.6\Menu.cpp">
+      <Filter>Client\Functions\Visuals</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Hpp Hack CS 1.6\Defines.h" />
+    <ClInclude Include="Hpp Hack CS 1.6\Variables.h" />
+    <ClInclude Include="Hpp Hack CS 1.6\Chams.h">
+      <Filter>Client\Functions\Visuals</Filter>
+    </ClInclude>
+    <ClInclude Include="Hpp Hack CS 1.6\Crosshair.h">
+      <Filter>Client\Functions\Visuals</Filter>
+    </ClInclude>
+    <ClInclude Include="Hpp Hack CS 1.6\ESP.h">
+      <Filter>Client\Functions\Visuals</Filter>
+    </ClInclude>
+    <ClInclude Include="Hpp Hack CS 1.6\NoFlash.h">
+      <Filter>Client\Functions\Visuals</Filter>
+    </ClInclude>
+    <ClInclude Include="Hpp Hack CS 1.6\Other.h">
+      <Filter>Client\Functions\Visuals</Filter>
+    </ClInclude>
+    <ClInclude Include="Hpp Hack CS 1.6\AutoPistol.h">
+      <Filter>Client\Functions\AimBot</Filter>
+    </ClInclude>
+    <ClInclude Include="Hpp Hack CS 1.6\Weapons.h">
+      <Filter>Client\Functions\AimBot</Filter>
+    </ClInclude>
+    <ClInclude Include="Hpp Hack CS 1.6\Recoil.h">
+      <Filter>Client\Functions\AimBot</Filter>
+    </ClInclude>
+    <ClInclude Include="Hpp Hack CS 1.6\BunnyHop.h">
+      <Filter>Client\Functions\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="Hpp Hack CS 1.6\GroundStrafe.h">
+      <Filter>Client\Functions\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="Hpp Hack CS 1.6\FastZoom.h">
+      <Filter>Client\Functions\AimBot</Filter>
+    </ClInclude>
+    <ClInclude Include="Hpp Hack CS 1.6\Main.h">
+      <Filter>Main</Filter>
+    </ClInclude>
+    <ClInclude Include="Hpp Hack CS 1.6\Info.h">
+      <Filter>Client\Information</Filter>
+    </ClInclude>
+    <ClInclude Include="Hpp Hack CS 1.6\Speed.h">
+      <Filter>Client\Functions\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="Hpp Hack CS 1.6\Fonts.h">
+      <Filter>Renderer</Filter>
+    </ClInclude>
+    <ClInclude Include="Hpp Hack CS 1.6\Drawing.h">
+      <Filter>Renderer</Filter>
+    </ClInclude>
+    <ClInclude Include="Hpp Hack CS 1.6\EngineMsg.h">
+      <Filter>Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="Hpp Hack CS 1.6\Offsets.h">
+      <Filter>Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="Hpp Hack CS 1.6\UserMsg.h">
+      <Filter>Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="Hpp Hack CS 1.6\Utils.h">
+      <Filter>Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="Hpp Hack CS 1.6\Spread.h">
+      <Filter>Client\Information</Filter>
+    </ClInclude>
+    <ClInclude Include="Hpp Hack CS 1.6\WeaponList.h">
+      <Filter>Client\Information</Filter>
+    </ClInclude>
+    <ClInclude Include="Hpp Hack CS 1.6\ScreenInfo.h">
+      <Filter>Client\Functions\Visuals</Filter>
+    </ClInclude>
+    <ClInclude Include="Hpp Hack CS 1.6\Client.h">
+      <Filter>Client</Filter>
+    </ClInclude>
+    <ClInclude Include="Hpp Hack CS 1.6\TriggerBot.h">
+      <Filter>Client\Functions\TriggerBot</Filter>
+    </ClInclude>
+    <ClInclude Include="Hpp Hack CS 1.6\Files.h">
+      <Filter>Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Hpp Hack CS 1.6\Engine.h">
+      <Filter>Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="Hpp Hack CS 1.6\OpenGL.h">
+      <Filter>OpenGL</Filter>
+    </ClInclude>
+    <ClInclude Include="Hpp Hack CS 1.6\Menu.h">
+      <Filter>Client\Functions\Visuals</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Client">
+      <UniqueIdentifier>{5bff56d1-2dab-47a9-bc8e-5ab4175ff136}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Client\Functions">
+      <UniqueIdentifier>{af515df0-d077-4287-af7b-4f99eb654312}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Client\Information">
+      <UniqueIdentifier>{e73f183e-e409-4505-bf8c-2d67e3a16521}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Client\Functions\Visuals">
+      <UniqueIdentifier>{73ad2afb-2427-4ed3-94ea-bf7e11d77756}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Client\Functions\AimBot">
+      <UniqueIdentifier>{a49b572e-cdfe-403c-a99a-32f549f9e179}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Client\Functions\TriggerBot">
+      <UniqueIdentifier>{9fa3478a-500f-448d-92e7-9bf917fb098a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Client\Functions\Misc">
+      <UniqueIdentifier>{4df64334-f253-4e42-b695-00d12250dfa2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Renderer">
+      <UniqueIdentifier>{136bc1c8-43d6-447d-b607-975718625aeb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Main">
+      <UniqueIdentifier>{c8ce7297-ea55-4cc0-ad36-9ea3ea484a3b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine">
+      <UniqueIdentifier>{0a5c3bf4-2699-4e73-abc6-670d0c5b0377}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Utils">
+      <UniqueIdentifier>{70cd5644-ac98-4747-a953-4a6c24169eee}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Files">
+      <UniqueIdentifier>{02709cd6-2e3b-4236-bf15-6d7f243919b2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="OpenGL">
+      <UniqueIdentifier>{cd207a93-d704-476c-b5af-25bed549d04f}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
